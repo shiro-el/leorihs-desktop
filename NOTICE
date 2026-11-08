@@ -1,0 +1,12 @@
+shiro
+Copyright 2026 Jae Lee
+
+Parts of this software, the design tokens and the shared interface components, are derived from
+OpenBot: https://github.com/nightly-labs/openbot
+
+Required Notice: Copyright 2026 Synthetify Labs spółka z ograniczoną odpowiedzialnością.
+Required Notice: For a commercial license, contact licenses@openbot.run.
+
+The web interface's inline icons and the Android library screen's file icons are Material Symbols
+and Material Icons by Google, under the Apache License 2.0:
+https://github.com/google/material-design-icons
